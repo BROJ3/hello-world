@@ -1,2 +1,2 @@
 # hello-world
-ideas, resources
+ideas, resources, collaboration
